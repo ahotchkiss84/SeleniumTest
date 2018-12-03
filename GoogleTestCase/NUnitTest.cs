@@ -10,7 +10,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace GoogleTestCase
 {
-    class NUnitText
+    class NUnitTest
     {
         public static void Main() { }
         IWebDriver driver;
